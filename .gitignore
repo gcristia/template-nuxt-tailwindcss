@@ -156,3 +156,6 @@ fabric.properties
 
 # and uncomment the following lines
 # .pnp.*
+
+# Nuxt dev/build outputs
+.data
